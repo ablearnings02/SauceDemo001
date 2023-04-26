@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10909" started-at="2023-04-25T20:24:56Z" finished-at="2023-04-25T20:25:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10909" started-at="2023-04-25T20:24:56Z" finished-at="2023-04-25T20:25:06Z">
+      <class name="com.qa.saucedemo.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.saucedemo.tests.LoginPageTest@7a52f2a2]" name="setUp" is-config="true" duration-ms="7364" started-at="2023-04-25T20:24:56Z" finished-at="2023-04-25T20:25:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.qa.saucedemo.tests.LoginPageTest@7a52f2a2]" name="loginPageTitleTest" duration-ms="254" started-at="2023-04-25T20:25:03Z" finished-at="2023-04-25T20:25:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="loginPageURLTest()[pri:2, instance:com.qa.saucedemo.tests.LoginPageTest@7a52f2a2]" name="loginPageURLTest" duration-ms="21" started-at="2023-04-25T20:25:03Z" finished-at="2023-04-25T20:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageURLTest -->
+        <test-method status="PASS" signature="loginPageHeaderTest()[pri:3, instance:com.qa.saucedemo.tests.LoginPageTest@7a52f2a2]" name="loginPageHeaderTest" duration-ms="101" started-at="2023-04-25T20:25:04Z" finished-at="2023-04-25T20:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageHeaderTest -->
+        <test-method status="PASS" signature="doLoginTest()[pri:4, instance:com.qa.saucedemo.tests.LoginPageTest@7a52f2a2]" name="doLoginTest" duration-ms="1442" started-at="2023-04-25T20:25:04Z" finished-at="2023-04-25T20:25:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.saucedemo.tests.LoginPageTest@7a52f2a2]" name="tearDown" is-config="true" duration-ms="1375" started-at="2023-04-25T20:25:05Z" finished-at="2023-04-25T20:25:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.saucedemo.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
